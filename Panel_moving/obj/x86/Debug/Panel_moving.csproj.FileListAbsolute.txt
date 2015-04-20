@@ -1,0 +1,15 @@
+c:\users\ripan\documents\visual studio 2010\Projects\Panel_moving\Panel_moving\bin\Debug\Panel_moving.exe
+c:\users\ripan\documents\visual studio 2010\Projects\Panel_moving\Panel_moving\bin\Debug\Panel_moving.pdb
+c:\users\ripan\documents\visual studio 2010\Projects\Panel_moving\Panel_moving\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ripan\documents\visual studio 2010\Projects\Panel_moving\Panel_moving\obj\x86\Debug\Panel_moving.Form1.resources
+c:\users\ripan\documents\visual studio 2010\Projects\Panel_moving\Panel_moving\obj\x86\Debug\Panel_moving.Properties.Resources.resources
+c:\users\ripan\documents\visual studio 2010\Projects\Panel_moving\Panel_moving\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ripan\documents\visual studio 2010\Projects\Panel_moving\Panel_moving\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ripan\documents\visual studio 2010\Projects\Panel_moving\Panel_moving\obj\x86\Debug\Panel_moving.exe
+c:\users\ripan\documents\visual studio 2010\Projects\Panel_moving\Panel_moving\obj\x86\Debug\Panel_moving.pdb
+D:\Panel_moving\Panel_moving\obj\x86\Debug\Panel_moving.exe
+D:\Panel_moving\Panel_moving\obj\x86\Debug\Panel_moving.pdb
+D:\Pojects\Panel_moving\Panel_moving\obj\x86\Debug\Panel_moving.exe
+D:\Pojects\Panel_moving\Panel_moving\obj\x86\Debug\Panel_moving.pdb
+D:\Projects\Panel_moving\Panel_moving\obj\x86\Debug\Panel_moving.exe
+D:\Projects\Panel_moving\Panel_moving\obj\x86\Debug\Panel_moving.pdb
